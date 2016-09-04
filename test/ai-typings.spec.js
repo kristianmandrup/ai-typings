@@ -13,7 +13,7 @@ var chai = require('chai'),
 
 chai.should();
 
-var ai-typings = require('../lib/ai-typings.js');
+var aiTypings = require('../lib/ai-typings.js');
 
 describe('ai-typings module', function() {
     describe('#awesome()', function() {
