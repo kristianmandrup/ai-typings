@@ -1,4 +1,7 @@
+const readFile = require('./readFile');
+
 module.exports = {
-  project: require('./installer.json'),
+  project: readFile('./installer.json'),
+  aurelia: readFile('./aurelia.json'),
   components: require('./components')
 }

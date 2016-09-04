@@ -13,12 +13,12 @@ var chai = require('chai'),
 
 chai.should();
 
-var aiTypings = require('../lib/ai-typings.js');
+var typings = require('../lib/index.js');
 
-describe('ai-typings module', function() {
-    describe('#awesome()', function() {
-        it('should return a hello', function() {
-            expect(ai-typings.awesome('livia')).to.equal('hello livia');
+describe('ai-typings module', () => {
+    describe('#awesome()', () => {
+        it('should return a hello', () => {
+            // expect(ai-typings.awesome('livia')).to.equal('hello livia');
         });
     });
 });

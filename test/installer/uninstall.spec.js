@@ -5,7 +5,7 @@ var chai = require('chai'),
 
 chai.should();
 
-require('../../project-files');
+require('../project-files');
 
 const lib = require('../../lib');
 

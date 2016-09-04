@@ -1,3 +1,5 @@
+const readFile = require('../readFile');
+
 module.exports = {
-  contact: require('./contact')
+  contact: readFile('./components/contact.json'),
 }
