@@ -1,0 +1,6 @@
+{
+  "nprogress": "dt~nprogress",
+  "dialog": "github:aurelia/dialog",
+  "sortable": "dt~sortablejs",
+  "sortablejs": "dt~sortablejs"
+}
