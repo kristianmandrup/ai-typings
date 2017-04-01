@@ -1,5 +1,7 @@
 # Ai-typings [![Build Status](https://secure.travis-ci.org/kristianmandrup/ai-typings.png?branch=master)](http://travis-ci.org/kristianmandrup/ai-typings) [![NPM version](https://badge-me.herokuapp.com/api/npm/ai-typings.png)](http://badges.enytc.com/for/npm/ai-typings)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/ai-typings.svg)](https://greenkeeper.io/)
+
 > Typings management for Aurelia
 
 ## Getting Started
